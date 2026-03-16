@@ -97,7 +97,8 @@ psychologist-agent/
 ├── scripts/                    # Data processing & evaluation scripts
 ├── notebooks/                  # Colab notebooks (Unsloth)
 ├── tests/                      # 10 test files, 215 tests
-└── demo/                       # Gradio web demo
+├── demo/                       # Gradio web demo
+└── Evaluation                  # Model Evaluation
 ```
 
 ## 5. Installation & Setup
